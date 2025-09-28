@@ -1,3 +1,2 @@
-<p align="center">
-<img width="400" height="250" alt="IMG_2865" src="https://files.catbox.moe/w2qm7h.jpg" />
-</p>
+<img src="https://files.catbox.moe/w2qm7h.jpg" alt="@akikiataeh029 on twt !!" style="width:100%; height:auto;" />
+@akikiataeh029 on twt !!
